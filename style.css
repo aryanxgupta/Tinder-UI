@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(/tinder-effect/Bebas\ Neue.ttf);
+}
+::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+}
